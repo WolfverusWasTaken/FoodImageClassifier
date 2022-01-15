@@ -1,7 +1,10 @@
 **ABOUT:**
 A simple CNN model for image classification. This model was made as a personal project for food(Ikura Sushi, Mushroom and Onion) classification.
 
-![alt text](Model-Architecture.png "Model Architecture")
+<p align="center">
+  <img src=Model-Architecture.png alt="Model Architecture"/>
+</p>
+
 
 
 A simple image classification project with a small model and dataset.
